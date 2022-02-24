@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 `HTML5` `CSS3` `Sass` `BEM` `Responsive Web Design` `Mobile First Design` `JavaScript ES6` `React JS` `Node JS` `Espress JS` `SQL` `Git` `Agile & Scrum` `PHP` `MySQL` `Bootstrap`
 
 #### Projects: ⚡
-- [Anime Search Engine JavaScript] (http://beta.adalab.es/modulo-2-evaluacion-final-Mariamafalda2021/)
+- [Anime Search Engine JavaScript](http://beta.adalab.es/modulo-2-evaluacion-final-Mariamafalda2021/)
 - 
 
 
