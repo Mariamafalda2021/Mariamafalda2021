@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, my name is María 👋
 
-<!--
-**Mariamafalda2021/Mariamafalda2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+**NOW:** I'm learning at [Adalab](https://adalab.es)👯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Junior Front-end developer
+- E-learning specialist
+- Instructional designer
+
+`HTML5` `CSS3` `Sass` `BEM` `Responsive Web Design` `Mobile First Design` `JavaScript ES6` `React JS` `Node JS` `Espress JS` `SQL` `Git` `Agile & Scrum` `PHP` `MySQL` `Bootstrap`
+
+#### Projects: ⚡
+
+
+
